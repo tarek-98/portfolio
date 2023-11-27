@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0abdd353.css",
-    "main.js": "/portfolio/static/js/main.b5eb395f.js",
+    "main.js": "/portfolio/static/js/main.31a448bd.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/nomad.png": "/portfolio/static/media/nomad.882651b43aaef54398a1.png",
     "static/media/color-sharp.png": "/portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/hexaShop.png": "/portfolio/static/media/hexaShop.b000660ce9dd286d390e.png",
     "static/media/color-sharp2.png": "/portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/youtube-clone.png": "/portfolio/static/media/youtube-clone.bdeaea8dc262db4dc96c.png",
     "static/media/SpecialDesign.png": "/portfolio/static/media/SpecialDesign.1e96e96908d495968d84.png",
     "static/media/makaan.png": "/portfolio/static/media/makaan.464b087dea114652ac1f.png",
     "static/media/e-Commerce.png": "/portfolio/static/media/e-Commerce.95778711e1ac673dafcc.png",
@@ -36,11 +37,11 @@
     "static/media/arrow1.svg": "/portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.0abdd353.css.map": "/portfolio/static/css/main.0abdd353.css.map",
-    "main.b5eb395f.js.map": "/portfolio/static/js/main.b5eb395f.js.map",
+    "main.31a448bd.js.map": "/portfolio/static/js/main.31a448bd.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0abdd353.css",
-    "static/js/main.b5eb395f.js"
+    "static/js/main.31a448bd.js"
   ]
 }
