@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0abdd353.css",
-    "main.js": "/portfolio/static/js/main.8b76dea6.js",
+    "main.js": "/portfolio/static/js/main.22c7ac47.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/imdb.png": "/portfolio/static/media/imdb.a038e2a3085f1deb7e09.png",
     "static/media/shoppingTime.png": "/portfolio/static/media/shoppingTime.44937e73805aa810d04a.png",
@@ -17,6 +17,8 @@
     "static/media/wonderTour.jpeg": "/portfolio/static/media/wonderTour.7beea5963513524b1cdb.jpeg",
     "static/media/banner-bg.png": "/portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/cry.png": "/portfolio/static/media/cry.e3536c127b7e1cf4a3eb.png",
+    "static/media/dashboard.png": "/portfolio/static/media/dashboard.5e3e9d34ab51370cbfb0.png",
     "static/media/ratherApp.jpeg": "/portfolio/static/media/ratherApp.63722917d2190ddc43f4.jpeg",
     "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -40,11 +42,11 @@
     "static/media/arrow1.svg": "/portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.0abdd353.css.map": "/portfolio/static/css/main.0abdd353.css.map",
-    "main.8b76dea6.js.map": "/portfolio/static/js/main.8b76dea6.js.map",
+    "main.22c7ac47.js.map": "/portfolio/static/js/main.22c7ac47.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0abdd353.css",
-    "static/js/main.8b76dea6.js"
+    "static/js/main.22c7ac47.js"
   ]
 }
